@@ -8,7 +8,7 @@
     <h2>Login Page Devops</h2><br>    
     <div class="login">    
     <form id="login" method="get" action="login.php">    
-        <label><b>yourName     
+        <label><b>USERNAME     
         </b>    
         </label>    
         <input type="text" name="Uname" id="Uname" placeholder="Username">    
